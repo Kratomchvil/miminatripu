@@ -1,0 +1,2 @@
+# miminatripu
+stranka kapely miminatripu
