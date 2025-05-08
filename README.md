@@ -1,2 +1,17 @@
-# miminatripu
-stranka kapely miminatripu
+index.html
+koncerty.html
+kontak.html
+merch.html
+onas.html
+style.css
+koncerty.css
+kontak.css
+merch.css
+onas.css
+fade.css
+preloader.css
+bg.jpg
+kapelnifoto.jpg
+logo.jpg
+preloaderbg.jpg
+favicon_48x48.png
