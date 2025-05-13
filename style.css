@@ -127,36 +127,5 @@ body {
     margin-top: 135px;
 }
 
-/* Responsivní styl pro mobilní zařízení */
-@media (max-width: 768px) {
-    .logo-container img {
-        width: 80%; /* Zmenší logo na 80% šířky obrazovky */
-        max-width: 300px;
-    }
-
-    .title {
-        font-size: 2rem; /* Zmenší nadpis */
-        text-align: center;
-    }
-
-    .nav {
-        display: flex;
-        flex-direction: column; /* Navigace pod sebou na mobilu */
-        align-items: center;
-        gap: 10px;
-    }
-
-    .links {
-        display: flex;
-        flex-direction: column; /* Odkazy pod sebou */
-        align-items: center;
-        gap: 10px;
-    }
-
-    body {
-        padding: 0 10px; /* Menší okraje na mobilu */
-        overflow-x: hidden; /* Zabrání horizontálnímu posunu */
-    }
-}
 
 
